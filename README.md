@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0605-can-place-flowers) |
+| [1840-maximum-building-height](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1840-maximum-building-height) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Greedy
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Math
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1840-maximum-building-height) |
+## Sorting
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1840-maximum-building-height) |
 <!---LeetCode Topics End-->
