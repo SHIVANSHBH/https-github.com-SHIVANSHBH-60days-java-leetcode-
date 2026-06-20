@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0238-product-of-array-except-self) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
