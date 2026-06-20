@@ -1,0 +1,30 @@
+// Pattern: Two-pointer (read/write) for in-place compression
+// read pointer scans groups, write pointer places compressed output
+// Time: O(n) | Space: O(1)
+
+class Solution {
+    public int compress(char[] chars) {
+        int write = 0;
+        int read = 0;
+
+        while (read < chars.length) {
+            char current = chars[read];
+            int count = 0;
+
+            while (read < chars.length && chars[read] == current) {
+                read++;
+                count++;
+            }
+
+            chars[write++] = current;
+
+            if (count > 1) {
+                for (char c : Integer.toString(count).toCharArray()) {
+                    chars[write++] = c;
+                }
+            }
+        }
+
+        return write;
+    }
+}
