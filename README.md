@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0443-string-compression) |
 ## Array
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
