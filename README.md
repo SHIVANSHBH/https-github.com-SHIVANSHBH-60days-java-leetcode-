@@ -83,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
 | ------- |
