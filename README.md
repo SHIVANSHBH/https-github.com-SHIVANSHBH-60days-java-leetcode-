@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2352-equal-row-and-column-pairs) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2352-equal-row-and-column-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1833-maximum-ice-cream-bars) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -152,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/0394-decode-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
