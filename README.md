@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/1840-maximum-building-height) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2352-equal-row-and-column-pairs) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/2352-equal-row-and-column-pairs) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SHIVANSHBH/https-github.com-SHIVANSHBH-60days-java-leetcode-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
